@@ -37,7 +37,7 @@ URLs & Structure
 - ListProducts /
     - Upload Csv ( Requires a csv file in the order: Name,Type,Quantity,Price,Available,stock,total)
     - Export Csv ( User May select one detailed product entry to be exported as well as may select multiples and then export)
-    ![image](https://drive.google.com/file/d/1v4xF3_achzHqZHdGPFZNngGBN9FjM-ZG/view)
+    ![alt text](https://drive.google.com/file/d/1v4xF3_achzHqZHdGPFZNngGBN9FjM-ZG/view)
 - ListVendors /accounts/
     - No required parameter ( As authentication / session management was not necessary as per assignment)
     - Export Csv ( User May select one detailed user entry to be exported as well as may select multiples and then export)
