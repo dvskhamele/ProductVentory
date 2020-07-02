@@ -41,7 +41,7 @@ URLs & Structure
 - ListVendors /accounts/
     - No required parameter ( As authentication / session management was not necessary as per assignment)
     - Export Csv ( User May select one detailed user entry to be exported as well as may select multiples and then export)
-    https://drive.google.com/uc?export=view&id=1v4xF3_achzHqZHdGPFZNngGBN9FjM-ZG
+    ![alt text](https://drive.google.com/uc?export=view&id=1v4xF3_achzHqZHdGPFZNngGBN9FjM-ZG)
 - GetUsersInCSV /api/v1/users/user_list_in_csv
     - usernames (User May select one detail to be exported as well as may select multiples and then export)
 - GetProductsInCSV /api/v1/users/product_list_in_csv
